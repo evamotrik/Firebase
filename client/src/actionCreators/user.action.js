@@ -1,0 +1,1 @@
+export const addUser = (data) => ({type: 'SHOW_INFO', data});
